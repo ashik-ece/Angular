@@ -1,0 +1,18 @@
+h1,
+h2 {
+    color: rgb(255, 76, 82);
+    font-family: Arial, sans-serif;
+}
+
+p {
+    font-size: 20px;
+    margin: 5px 0;
+}
+
+div {
+    padding: 20px;
+    border: 1px solid #faeaea;
+    border-radius: 5px;
+    width: 50%;
+    margin: auto;
+}
